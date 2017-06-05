@@ -1,0 +1,13 @@
+body, div, a
+{margin:0px;padding:0px;}
+#header{height:40px;margin:25px 80px;background:url(logotm.png) no-repeat; background-size:200px;}
+#container{padding:1px;height:650px;background:url(../images/tm.png) no-repeat;background-size:100% 600px;}
+#footer{height:200px;}
+#main{width:360px;height:350px;background-color:#EDEDED;margin-left:800px;margin-top:120px;padding-left:20px;}
+#main p{font-size:20px;}
+a{color:#A8A8A8;text-decoration: none;font-size:13px;padding-left:10px;}
+a:hover{color:orange;}
+.div1{margin:10px 100px;padding:10px;border-top:1px solid #A8A8A8;}
+.inp{width:250px;height:35px;border:none;}
+#denglu{background-color:red; color:white; width:320px;height:40px;border:none;cursor: pointer;}
+#pp{margin-left:200px;}
